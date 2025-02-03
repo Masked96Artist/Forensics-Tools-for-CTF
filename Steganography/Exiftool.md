@@ -1,5 +1,9 @@
-Debian/Ubuntu-based
+# Debian/Ubuntu-based
+```
 sudo apt install libimage-exiftool-perl
+```
 
-Arch-based
+# Arch-based
+```
 sudo pacman -S exiftool
+```
