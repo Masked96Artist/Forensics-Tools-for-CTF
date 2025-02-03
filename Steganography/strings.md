@@ -1,5 +1,9 @@
-Debian Based
+# Debian Based
+```
 sudo apt install binutils
+```
 
-Arch-based
+# Arch-based
+```
 sudo pacman -S binutils
+```
